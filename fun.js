@@ -5,6 +5,7 @@
 // const show=()=>{
 //     console.log("Welcome to CSB");
 // }
+// show();
 
 // const aa=() => {
 //     console.log("Welcome to CSB");
@@ -12,10 +13,10 @@
 // aa();
 
 function person(){
-    this.age = 25;
+    this.age = 20;
 
-    setTimeout( ()=> {
+    setTimeout(()=>{
         console.log(this.age);
-    },1000);
+    },100);
 }
 person();
