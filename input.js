@@ -24,11 +24,3 @@ console.log(cal().add(3,4));
 console.log(cal().sub(3,4));
 console.log(cal().mul(3,4));
 console.log(cal().div(3,0));
-
-
-//Q2
-const cal=()=> ({
-    const calc = (op,a,b)=>{
-        
-    }
-})
