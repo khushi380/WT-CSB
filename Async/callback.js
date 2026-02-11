@@ -39,7 +39,4 @@
 //     },4000));
 // },6000));
 
-let ulTeam = [2,3,5,6];
-let flutterTeam = [4,1,3,9];
-
-
+//Callback = kisi dusre function m as a reference pass karte h 
